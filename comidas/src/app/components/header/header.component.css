@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Afacad&family=Kalnia:wght@300;400&display=swap");
+
+.header {
+  padding: 20px;
+  background-color: rgb(193, 168, 192);
+  text-align: center;
+}
+
+.img-principal {
+  width: 100px;
+}
+
+.titulo {
+  font-family: "Kalnia", serif;
+  font-size: 60px;
+  line-height: 1;
+  text-align: center;
+}
+
+.fecha {
+  text-align: center;
+  height: 20px;
+  background-color: rgb(255, 240, 252);
+  border-radius: 10px;
+}

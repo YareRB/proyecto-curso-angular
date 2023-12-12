@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Afacad&family=Kalnia:wght@300;400&family=Nanum+Myeongjo&family=Poppins:wght@200&family=Quicksand:wght@300&display=swap");
+
+.dia-semana {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  border: 1px solid #be69b7;
+  height: 250px;
+  margin-left: 15px;
+  border-radius: 5px;
+}
+
+.dia-titulo {
+  background-color: #6a3566;
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  font-family: "Nanum Myeongjo", serif;
+}
+
+.label-comida {
+  font-family: "Kalnia", serif;
+  margin-left: 10px;
+}
+
+.color {
+  background-color: #f1d7ef;
+  margin-left: 7%;
+  padding-left: 15px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mr-15 {
+  margin-right: 15px;
+}
+
+.mr-30 {
+  margin-right: 30px;
+}
+
+.img-edit {
+  width: 30px;
+  align-self: flex-end;
+  margin-right: 5%;
+}
+
+.edit {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
